@@ -30,7 +30,7 @@
         <div class="row-fluid">
             <ul class="row client-slider" id="clint-slider">
             <li>
-                    <a href="<?php echo base_url() ?>https://anyflip.com/mrfst/zodm/">
+                    <a href="https://anyflip.com/mrfst/zodm/">
                         <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol5-issue01.jpg" alt="vol 5 - issue 01">
                         <p>Our_Esssence Vol05 Issue01 (Latest)</p>
                     </a>
